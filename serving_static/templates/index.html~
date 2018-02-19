@@ -1,0 +1,8 @@
+<!-- templates/index.html -->  
+<html>  
+  </head>
+  <body>
+    <h1>{{message}}</h1>
+    <img src="/static/images/fig1.png" alt="Related Book 1" width="50%" height="auto"> 
+  </body>
+</html>  
